@@ -1,0 +1,28 @@
+{
+"employees": [
+      {
+        "id": 1,
+        "name": "Mahima",
+        "jobTitle": "Software Engineer",
+        "department": "Development",
+        "email": "mahima@techsolutions.com",
+        "phoneNumber": "9876543210"
+      },
+      {
+        "id": 2,
+        "name": "Rohan",
+        "jobTitle": "Project Manager",
+        "department": "Management",
+        "email": "rohan@techsolutions.com",
+        "phoneNumber": "9123456780"
+      },
+      {
+        "id": 3,
+        "name": "Ayesha",
+        "jobTitle": "Data Analyst",
+        "department": "Analytics",
+        "email": "ayesha@techsolutions.com",
+        "phoneNumber": "9234567810"
+      }
+   ]
+ }
